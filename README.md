@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Saeid. I'm a graduated master's degree in mathematical statistics. 
+- 👀 I’m interested in projects related to statistical analysis and machine learning using programming languages such as R and Python.
+- 🌱 I’m currently learning Clojure. 
+- 📫 You can reach me by sending an email to saeidpourmand1@gmail.com
